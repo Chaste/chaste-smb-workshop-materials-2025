@@ -1,2 +1,7 @@
-# chaste-smb-workshop-materials-2025
-Materials for the 2025 Chaste tutorial at the Open VT workshop at the 2025 SMB Meeting
+# Chaste Tutorial at 2025 SMB Meeting 
+
+A directory of materials for the July 2025 Chaste Tutorial at the OPEN VT workshop in Edmundton, Canada.
+
+The main Chaste repository can be found [here](https://github.com/Chaste/Chaste).
+
+TBC
