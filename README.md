@@ -16,7 +16,7 @@ Before the workshop you will need to download and install Docker (and other usef
  * [Paraview](https://www.paraview.org/) for visualisation.
 
 
-## Mountung output in Windows
+## Mounting output in Windows
 
 ```
 docker run -it --init --rm -v chaste_data:/home/chaste -v C:\Projects\output:/home/chaste/output chaste/release
