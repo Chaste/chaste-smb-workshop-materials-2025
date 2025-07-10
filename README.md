@@ -10,13 +10,13 @@ TBC
 ## Mountung output in Windows
 
 ```
-docker run -it --init --rm -v chaste_data:/home/chaste -v C:\Projects\output:/home/chaste/output chaste/release]
+docker run -it --init --rm -v chaste_data:/home/chaste -v C:\Projects\output:/home/chaste/output chaste/release
 ```
 
 ## Mountung output in macOS
 
 ```
-docker run -it --init --rm -v chaste_data:/home/chaste -v "${PWD}"/output:/home/chaste/output chaste/release]
+docker run -it --init --rm -v chaste_data:/home/chaste -v "${PWD}"/output:/home/chaste/output chaste/release
 ```
 
 ## Visualising with Paraview
