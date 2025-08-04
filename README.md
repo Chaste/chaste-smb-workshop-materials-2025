@@ -22,7 +22,7 @@ Before the workshop you will need to download and install Docker (and other usef
 docker run -it --init --rm -v chaste_data:/home/chaste -v C:\Projects\output:/home/chaste/output chaste/release
 ```
 
-## Mountung output in macOS
+## Mounting output in macOS
 
 ```
 docker run -it --init --rm -v chaste_data:/home/chaste -v "${PWD}"/output:/home/chaste/output chaste/release
